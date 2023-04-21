@@ -1,4 +1,4 @@
-package es.codeurjc.ais.tictactoe;
+package es.tictactoe;
 
 import org.springframework.web.socket.TextMessage;
 import org.springframework.web.socket.WebSocketSession;
