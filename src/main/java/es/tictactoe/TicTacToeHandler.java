@@ -1,4 +1,4 @@
-package es.codeurjc.ais.tictactoe;
+package es.tictactoe;
 
 import java.util.concurrent.ConcurrentHashMap;
 import java.util.concurrent.ConcurrentMap;
