@@ -5,9 +5,9 @@ import org.springframework.web.socket.WebSocketSession;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
 
-import es.codeurjc.ais.tictactoe.TicTacToeGame.Event;
-import es.codeurjc.ais.tictactoe.TicTacToeGame.EventType;
-import es.codeurjc.ais.tictactoe.TicTacToeHandler.ServerToClientMsg;
+import es.tictactoe.TicTacToeGame.Event;
+import es.tictactoe.TicTacToeGame.EventType;
+import es.tictactoe.TicTacToeHandler.ServerToClientMsg;
 
 public class Connection {
 
