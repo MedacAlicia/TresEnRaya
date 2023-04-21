@@ -1,4 +1,4 @@
-package es.codeurjc.ais.tictactoe;
+package es.tictactoe;
 
 import java.util.List;
 import java.util.concurrent.CopyOnWriteArrayList;
