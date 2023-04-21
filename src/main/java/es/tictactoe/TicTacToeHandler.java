@@ -12,8 +12,8 @@ import com.fasterxml.jackson.annotation.JsonAutoDetect.Visibility;
 import com.fasterxml.jackson.annotation.PropertyAccessor;
 import com.fasterxml.jackson.databind.ObjectMapper;
 
-import es.codeurjc.ais.tictactoe.TicTacToeGame.Event;
-import es.codeurjc.ais.tictactoe.TicTacToeGame.EventType;
+import es.tictactoe.TicTacToeGame.Event;
+import es.tictactoe.TicTacToeGame.EventType;
 
 public class TicTacToeHandler extends TextWebSocketHandler {
 
