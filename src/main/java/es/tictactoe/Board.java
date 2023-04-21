@@ -3,7 +3,7 @@ package es.tictactoe;
 import java.util.ArrayList;
 import java.util.List;
 
-import es.codeurjc.ais.tictactoe.TicTacToeGame.Cell;
+import es.tictactoe.TicTacToeGame.Cell;
 
 public class Board {
 	
