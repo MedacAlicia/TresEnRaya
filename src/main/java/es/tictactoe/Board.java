@@ -1,4 +1,4 @@
-package es.codeurjc.ais.tictactoe;
+package es.tictactoe;
 
 import java.util.ArrayList;
 import java.util.List;
